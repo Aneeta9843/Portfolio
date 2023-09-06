@@ -32,7 +32,7 @@ body{
  }
  #about img{
     border-radius:50%;
-    width: 120px;
+    width: 200px;
     margin-bottom: 10px;
  }
  #about .name{
@@ -63,16 +63,19 @@ body{
  /*************
  projects
  **************/
- #project{
+ #projects{
    margin: 60px auto;
    width: 80%;
  }
- #project h2{
+ #projects h2{
    text-align: center;
  }
- #project .card tag{
+ #projects .card tag{
    width: 100%;
  }
- #project .card-title{
+ #projects .card-title{
    font-weight: bold;
+ }
+ .projectspic{
+   width: 100%;
  }
